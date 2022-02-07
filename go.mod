@@ -7,13 +7,13 @@ require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/alecthomas/kong v0.2.18
 	github.com/cenkalti/backoff/v4 v4.1.1
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/google/go-cmp v0.5.6
 	github.com/hellofresh/health-go/v4 v4.5.0
-	github.com/honeycombio/beeline-go v1.3.1
+	github.com/honeycombio/beeline-go v1.5.1
 	github.com/honeycombio/dynsampler-go v0.2.1
-	github.com/honeycombio/libhoney-go v1.15.6
+	github.com/honeycombio/libhoney-go v1.15.8
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/jolestar/go-commons-pool/v2 v2.1.1
 	github.com/klauspost/compress v1.13.6
@@ -45,14 +45,14 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
-	github.com/vmihailenco/msgpack/v5 v5.3.4 // indirect
+	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	go.opentelemetry.io/otel v1.0.0 // indirect
 	go.opentelemetry.io/otel/trace v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20210920023735-84f357641f63 // indirect
 	golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
-	google.golang.org/grpc v1.40.0 // indirect
+	google.golang.org/grpc v1.43.0 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/alexcesaro/statsd.v2 v2.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
